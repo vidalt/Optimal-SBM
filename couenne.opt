@@ -1,0 +1,11 @@
+time_limit 600.0
+allowable_gap 1e-6
+allowable_fraction_gap 1e-6
+acceptable_tol 1e-6
+tol 1e-6
+feas_tolerance 1e-7
+integer_tolerance 1e-7
+constr_viol_tol 1e-7
+compl_inf_tol 1e-7
+acceptable_constr_viol_tol 1e-7
+acceptable_compl_inf_tol 1e-7
